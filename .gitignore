@@ -1,0 +1,32 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xlsm
+~$*.xls
+
+# Pastas com arquivos reais/sensíveis
+arquivos_originais/
+arquivos_trabalho/
+saida/
+backups/
+
+# Planilhas reais
+*.xlsx
+*.xlsm
+*.xls
+
+# Configurações locais
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
