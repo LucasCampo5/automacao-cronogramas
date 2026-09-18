@@ -36,3 +36,14 @@ automacao_cronogramas/
 │   ├── extrair_regras_amarelo.py
 │   ├── gerar_mes.py
 │   └── teste_copiar_aba.py
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, foram praticados conceitos como:
+
+- manipulação de arquivos Excel com Python;
+- automação de tarefas repetitivas;
+- organização de regras de negócio em arquivos de configuração;
+- uso de ambiente virtual;
+- versionamento de código com Git e GitHub;
+- estruturação de projeto para portfólio.
